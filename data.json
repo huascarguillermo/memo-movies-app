@@ -1,0 +1,63 @@
+[
+    {
+      "Id": 1,
+      "Title": "Spirited Away",
+      "Description": "A young girl, Chihiro, gets trapped in a mysterious world of spirits and gods. She must navigate through this strange realm to save her parents and find her way back home.",
+      "Category": "Fantasy, Adventure"
+    },
+    {
+      "Id": 2,
+      "Title": "My Neighbor Totoro",
+      "Description": "Two young sisters, Mei and Satsuki, move to the countryside and discover friendly forest spirits, including the lovable Totoro. Together, they embark on magical adventures.",
+      "Category": "Fantasy, Slice of Life"
+    },
+    {
+      "Id": 3,
+      "Title": "Akira",
+      "Description": "In a dystopian future, a biker gang member, Tetsuo, gains incredible psychic powers. His friend Kaneda must stop him from destroying Neo-Tokyo amidst political turmoil.",
+      "Category": "Sci-Fi, Action"
+    },
+    {
+      "Id": 4,
+      "Title": "Your Name",
+      "Description": "Two strangers, Mitsuha and Taki, find themselves swapping bodies intermittently. As they try to unravel this phenomenon, they form a deep connection transcending time and space.",
+      "Category": "Romance, Drama"
+    },
+    {
+      "Id": 5,
+      "Title": "Princess Mononoke",
+      "Description": "A young warrior, Ashitaka, becomes entangled in a conflict between the spirits of the forest and the humans who consume its resources. He seeks to find balance and peace.",
+      "Category": "Fantasy, Action"
+    },
+    {
+      "Id": 6,
+      "Title": "Grave of the Fireflies",
+      "Description": "Set during World War II, two siblings struggle to survive amidst the devastation of bombings and starvation. A heartbreaking tale of love, loss, and resilience.",
+      "Category": "Drama, Historical"
+    },
+    {
+      "Id": 7,
+      "Title": "Cowboy Bebop: The Movie",
+      "Description": "The bounty hunting crew of the spaceship Bebop investigates a terrorist plot in Mars' city of Alba City. Action-packed sequences ensue as they unravel the conspiracy.",
+      "Category": "Sci-Fi, Action"
+    },
+    {
+      "Id": 8,
+      "Title": "Ghost in the Shell",
+      "Description": "In a cyberpunk future, Major Motoko Kusanagi and her team of Section 9 operatives investigate cyber crimes and delve into the nature of consciousness and identity.",
+      "Category": "Sci-Fi, Cyberpunk"
+    },
+    {
+      "Id": 9,
+      "Title": "Neon Genesis Evangelion: The End of Evangelion",
+      "Description": "A complex and surreal conclusion to the Neon Genesis Evangelion series. Humanity faces its ultimate fate as the boundaries between reality and perception blur.",
+      "Category": "Sci-Fi, Mecha"
+    },
+    {
+      "Id": 10,
+      "Title": "Howl's Moving Castle",
+      "Description": "A young woman, Sophie, is cursed by a witch and transformed into an old woman. She seeks refuge in the moving castle of the mysterious wizard Howl.",
+      "Category": "Fantasy, Romance"
+    }
+  ]
+  
