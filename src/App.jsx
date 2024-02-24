@@ -60,8 +60,10 @@ function App() {
     setMovies(newMovieList);
   };
 
-  const onDeleteMovie = () => {
-    console.log("Deleting movie");
+  const onDeleteMovie = (id) => {
+    const deleteMovie = movies.filter((movie) => movie.Id !== id);
+
+    setMovies(deleteMovie);
   };
 
   return (

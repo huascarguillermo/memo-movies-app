@@ -60,7 +60,7 @@ function MovieList({ movies, onAddMovie, onDeleteMovie }) {
       </div>
       <section>
         {movies.map((movie) => (
-          <Movie key={movie.Id} movie={movie} />
+          <Movie key={movie.Id} movie={movie} onDeleteMovie={onDeleteMovie} />
         ))}
       </section>
 
